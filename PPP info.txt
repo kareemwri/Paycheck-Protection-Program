@@ -1,0 +1,37 @@
+
+
+Approved Loans
+	4,880,943
+
+Approved Dollars
+	$521,150,924,128
+
+Average Loan Size
+	$106,772
+
+# of Participating Lenders
+	
+	5,460
+
+
+
+
+data source
+https://sba.app.box.com/s/tvb0v5i57oa8gc6b5dcm9cyw7y2ms6pp
+
+
+data creator
+SBA
+Small Business Administration
+https://www.sba.gov/funding-programs/loans/coronavirus-relief-options/paycheck-protection-program#section-header-11
+
+	
+
+
+	
+
+
+	
+
+
+
